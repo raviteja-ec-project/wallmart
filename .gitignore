@@ -1,0 +1,5 @@
+#ignoring two files
+.classpath
+.project
+#ignoring directory
+/node_module/
